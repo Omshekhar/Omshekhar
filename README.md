@@ -1,10 +1,10 @@
-# Hi, I'm Om Shekhar 👋
+# Hi, I'm Om Shekhar <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 <!--
 **Omshekhar/Omshekhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 Here are some ideas to get you started:
-# replace contents according to you.
+# About Me🏼‍💻
 <table>
 <tr>
   <td valign="center">
