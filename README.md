@@ -19,9 +19,3 @@ Here are some ideas to get you started:
 </tr>
 </table>
 
-<tr>
-  <td valign="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=Omshekhar&theme=dracula&hide_border=true>
-  </td>
-  </tr>
-  </table>
