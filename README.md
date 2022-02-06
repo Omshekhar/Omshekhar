@@ -14,7 +14,6 @@ Here are some ideas to get you started:
     🎯 My Goal is to Contribute to as many **open source project** as possible.
     ✨ I love to create different types of **contents**.
   <td >
-# this is my daily.dev card, you can edit this accordingly
    <a href="https://app.daily.dev/omshekhar"><img src="https://api.daily.dev/devcards/2f69211611b345678c779d34349e1751.png?r=sxz" width="400" alt="Om Shekhar's Dev Card"/></a>  </td>
 
 </tr>
