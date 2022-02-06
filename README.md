@@ -19,5 +19,9 @@ Here are some ideas to get you started:
 </tr>
 </table>
 
-# replace username with your own or change theme
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=#Omshekhar&theme=dracula&hide_border=true)
+<tr>
+  <td valign="center">
+    <img src="https://activity-graph.herokuapp.com/graph?username=Omshekhar&theme=dracula&hide_border=true>
+  </td>
+  </tr>
+  </table>
