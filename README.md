@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 <tr>
   <td valign="center">
     🔭 I’m currently working on NIIT
-    🎓 I have completed my **Machelor's in Computer Application and Bachelor's in Computerr Application**.
+    🎓 I have completed my **Master's in Computer Application and Bachelor's in Computer Application**.
     🌱 I am currently learning **Business Intelligence** and also interested in **Microsoft Module's like Azure, Administration, app services**.
     🎯 My Goal is to Contribute to as many **open source project** as possible.
     ✨ I love to create different types of **contents**.
